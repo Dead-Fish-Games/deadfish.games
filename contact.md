@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Contact
-subtitle: Blah blah blah
 ---
 
 We can be reached a few different ways:
