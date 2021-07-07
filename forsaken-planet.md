@@ -34,8 +34,8 @@ While playing **Forsaken Planet**, you will take on the role of a merchant trans
 - 20 of each **Complex Resource** tokens
 - 50 of each **Simple Resource** tokens
 - 120 **food** tokens
--- 70 1/2 **food** tokens
--- 50 5/10 **food** tokens
+ - 70 1/2 **food** tokens
+ - 50 5/10 **food** tokens
 
 ## Release Information
 
