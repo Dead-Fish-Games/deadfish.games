@@ -1,6 +1,7 @@
 ---
-title: "Dead Fish Games"
-description: "Independent board game development and design"
+layout: home
+title: Dead Fish Games
+subtitle: Independent board game design and development
 ---
 
-Hello World
+Hello, world
