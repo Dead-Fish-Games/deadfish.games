@@ -5,6 +5,7 @@ subtitle: A token movement game for 2 or 4 players
 ---
 
 ## Quick Info
+
 | Players | Gameplay Time | Weight |
 | :------ |:--- | :--- |
 | 2/4 | 30-45 min | Light |
@@ -14,7 +15,9 @@ subtitle: A token movement game for 2 or 4 players
 *Under Construction*
 
 ## In the Box
+
 - 1 rule pamphlet
+- 1 three-sided die (d3)
 - 4 game boards
   - 2 horizontally symmetrical boards
   - 1 rotationally symmetrical board
@@ -35,8 +38,10 @@ subtitle: A token movement game for 2 or 4 players
   - 3 **backward-left** cards
 
 ## Release Information
+
 {: .box-warning}
 Untitled Movement Game is currently in alpha playtesting, and is presently only available as a Print-and-Play PDF.
 
 ## Game Manual
+
 *Under Construction*
