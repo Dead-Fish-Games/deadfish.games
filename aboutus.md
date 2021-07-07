@@ -11,7 +11,7 @@ Dead Fish Games was founded in 2020 by me (Ember Heartshine) and my partner, Lil
 
 I'm just getting the hang of Jekyll and Github Pages, so this page might be a little threadbare for a while.
 
-##So what *is* all this?
+## So what *is* all this?
 
 Dead Fish Games is an independent board game development partnership. We have no published games (yet), but we've been working on and prototyping a few games over the last few years.
 
