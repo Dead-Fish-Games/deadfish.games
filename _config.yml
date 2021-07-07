@@ -39,9 +39,9 @@ title-img: "/assets/img/dead-fish.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+  email: "contact@deadfish.games"
 #  facebook: deanattali
-#  github: daattali
+  github: EmberHeartshine
   twitter: dead_fish_games
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -118,7 +118,7 @@ footer-link-col: "#404040"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
-#mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
 #site-css:
@@ -185,7 +185,7 @@ footer-link-col: "#404040"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+date_format: "%d-%b-%Y"
 
 # Facebook App ID
 #fb_app_id: ""
