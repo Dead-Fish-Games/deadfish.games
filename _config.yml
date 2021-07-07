@@ -18,6 +18,7 @@ navbar-links:
   Games:
     - Forsaken Planet: "/fp"
     - Untitled Movement Game: "/umg"
+  Contact: "/contact"
 
 # --- Logo --- #
 
@@ -37,11 +38,11 @@ title-img: "/assets/img/dead-fish.png"
 
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
-#social-network-links:
+social-network-links:
 #  email: "someone@example.com"
 #  facebook: deanattali
 #  github: daattali
-#  twitter: daattali
+  twitter: dead_fish_games
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
