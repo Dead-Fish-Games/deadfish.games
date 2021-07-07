@@ -14,9 +14,9 @@ author: Ember Heartshine
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "/aboutus"
+  About Us: "/about-us"
   Games:
-    - Forsaken Planet: "/fp"
+    - Forsaken Planet: "/forsaken-planet"
     - Untitled Movement Game: "/umg"
   Contact: "/contact"
 
