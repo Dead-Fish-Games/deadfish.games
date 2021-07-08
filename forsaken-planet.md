@@ -2,7 +2,7 @@
 layout: page
 title: Forsaken Planet
 subtitle: A competitive resource management/trading game for 2-4 players
-cover-img: /assets/img/fp-board.webp
+cover-img: /assets/img/fp/fp-board-banner.webp
 ---
 
 ## Quick Info
@@ -37,6 +37,8 @@ While playing **Forsaken Planet**, you will take on the role of a merchant trans
 - 120 **food** tokens
   - 70 1/2 **food** tokens
   - 50 5/10 **food** tokens
+  
+[![Forsaken Planet playtest box](/assets/img/fp/fp-box-sm.webp)](/assets/img/fp/fp-box.webp){: .mx-auto.d-block :}
 
 ## Release Information
 
