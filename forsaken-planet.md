@@ -38,7 +38,7 @@ While playing **Forsaken Planet**, you will take on the role of a merchant trans
   - 70 1/2 **food** tokens
   - 50 5/10 **food** tokens
 
-|[![Forsaken Planet playtest box](/assets/img/fp/fp-box-sm.webp){: .mx-auto.d-block :}](/assets/img/fp/fp-box.webp)|[![Forsaken Planet playtest contents](/assets/img/fp/fp-contents-sm.webp){: .mx-auto.d-block :}](/assets/img/fp/fp-contents.webp)|[![Forsaken Planet playtest board](/assets/img/fp/fp-board-sm.webp){: .mx-auto.d-block :}](/assets/img/fp/fp-board.webp)|
+|[![Forsaken Planet playtest box](/assets/img/fp/fp-box-sm.webp)](/assets/img/fp/fp-box.webp)|[![Forsaken Planet playtest contents](/assets/img/fp/fp-contents-sm.webp)](/assets/img/fp/fp-contents.webp)|[![Forsaken Planet playtest board](/assets/img/fp/fp-board-sm.webp)](/assets/img/fp/fp-board.webp)|{: .mx-auto.d-block :}
 
 ## Release Information
 
