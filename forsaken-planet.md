@@ -2,6 +2,7 @@
 layout: page
 title: Forsaken Planet
 subtitle: A competitive resource management/trading game for 2-4 players
+cover-img: /assets/img/fp-board.webp
 ---
 
 ## Quick Info
