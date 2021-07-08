@@ -45,4 +45,4 @@ Untitled Movement Game is currently in alpha playtesting, and is presently only 
 
 ## Game Manual
 
-*Under Construction*
+- [Print-and-Play PDF](/assets/pdf/Untitled%20Movement%20Game_PnP-alpha.pdf)
