@@ -14,11 +14,11 @@ author: Ember Heartshine
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "/about-us"
-  Contact: "/contact"
   Games:
     - Forsaken Planet: "/forsaken-planet"
     - Untitled Movement Game: "/umg"
+  Contact: "/contact"
+  About Us: "/about-us"
 
 # --- Logo --- #
 
