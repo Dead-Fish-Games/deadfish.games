@@ -43,7 +43,7 @@ While playing **Forsaken Planet**, you will take on the role of a merchant trans
 ## Release Information
 
 {: .box-note}
-Forsaken Planet is currently in beta playtesting. Please [contact us](/contact) if you would like to order a playtest set.
+Forsaken Planet is currently in beta playtesting. Please [contact us](/about-us) if you would like to order a playtest set.
 
 ## Game Manual
 
