@@ -24,7 +24,7 @@ Welcome to Crystalpunk, a dark fantasy noir setting for the world's greatest rol
 ## Release Information
 
 {: .box-warning}
-*Crystalpunk: Anthology* is currently in alpha playtesting. Please [contact us](/contact-us) for more information.
+*Crystalpunk: Anthology* is currently in alpha playtesting. Please [contact us](/about-us) for more information.
 
 ## Download
 
