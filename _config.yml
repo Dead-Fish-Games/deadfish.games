@@ -1,8 +1,3 @@
-# Welcome to Beautiful Jekyll!
-# This config file is meant for settings that affect your entire website. When you first
-# set up your website you should go through all these settings and edit them, but after
-# the initial set up you won't need to come back to this file often.
-
 # --- Required options --- #
 
 # Name of website
@@ -17,6 +12,8 @@ navbar-links:
   Games:
     - Forsaken Planet: "/forsaken-planet"
     - Untitled Movement Game: "/umg"
+  Supplements:
+    - "Crystalpunk: Anthology": "/anthology"
   About Us: "/about-us"
 
 # --- Logo --- #
@@ -39,28 +36,28 @@ title-img: "/assets/img/dead-fish.webp"
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@deadfish.games"
-#  facebook: deanattali
+#  facebook: 
   github: Dead-Fish-Games
   twitter: dead_fish_games
-#  patreon: DeanAttali
-#  youtube: c/daattali
-#  medium: yourname
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+#  patreon:
+#  youtube:
+#  medium:
+#  reddit:
+#  linkedin:
+#  xing:
+#  stackoverflow: ""
+#  snapchat:
+#  instagram:
+#  spotify:
+#  telephone:
+#  steam:
+#  twitch:
+#  yelp:
+#  telegram:
+#  calendly:
+#  mastodon:
+#  ORCID:
+#  google-scholar:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
