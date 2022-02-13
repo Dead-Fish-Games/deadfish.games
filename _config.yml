@@ -9,7 +9,7 @@ author: Ember Heartshine
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Games:
+  Our Games:
     - Forsaken Planet: "/forsaken-planet"
     - Untitled Movement Game: "/umg"
   Supplements:
