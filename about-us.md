@@ -9,6 +9,10 @@ Dead Fish Games was founded in 2020 by me (Ember Heartshine) and my partner, Lil
 - [Forsaken Planet](/forsaken-planet)
 - [Untitled Movement Game](/umg)
 
+We've also build the following tabletop RPG supplements:
+
+- [Crystalpunk: Anthology](/anthology)
+
 ## So what *is* all this?
 
 Dead Fish Games is an independent board game development partnership. We have no published games (yet), but we've been working on and prototyping a few games over the last few years.
