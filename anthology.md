@@ -17,7 +17,7 @@ Welcome to Crystalpunk, a dark fantasy noir setting for the world's greatest rol
 
 **Crystalpunk: Anthology is a fan work. Dead Fish Games is neither affiliated with Plus Three Press nor a licensor of content owned thereof.**
 
-## Sample
+## Sample Pages
 
 |[![Sample Page 1](/assets/img/a/a-p1-sm.webp){: .mx-auto.d-block :}](/assets/img/a/a-p1.webp)|[![Sample Page 2](/assets/img/a/a-p2-sm.webp){: .mx-auto.d-block :}](/assets/img/a/a-p2.webp)|[![Sample Page 3](/assets/img/a/a-p3-sm.webp){: .mx-auto.d-block :}](/assets/img/a/a-p3.webp)|
 
