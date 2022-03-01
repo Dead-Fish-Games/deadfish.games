@@ -9,7 +9,7 @@ cover-img: /assets/img/a/a-banner.webp
 
 | Players | Gameplay Time | Weight |
 | :------ |:--- | :--- |
-| 4 | 90-180 min | Medium |
+| 4+ | Variable | Medium |
 
 ## Introduction
 
@@ -24,7 +24,7 @@ Welcome to Crystalpunk, a dark fantasy noir setting for the world's greatest rol
 ## Release Information
 
 {: .box-warning}
-Crystalpunk: Anthology is currently in alpha playtesting. Please [contact us](/about-us) for more information.
+Crystalpunk: Anthology is currently in beta playtesting. Please [contact us](/about-us) for more information.
 
 ## Download
 
