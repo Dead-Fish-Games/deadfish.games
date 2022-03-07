@@ -32,3 +32,4 @@ Crystalpunk: Anthology was released for download on 07-Mar-2022.
 
 * [Full-Color PDF](/assets/pdf/Crystalpunk%20Anthology.pdf) (10.4 MB)
 * [B+W Print-Friendly PDF](/assets/pdf/Crystalpunk%20Anthology-printfriendly.pdf) (680 KB)
+* *Battle maps available soon!*
