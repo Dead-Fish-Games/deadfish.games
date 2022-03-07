@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crystalpunk%3A Anthology
+title: Crystalpunk Anthology
 subtitle: A brand-new adventure for your 5E game
 tags: [crystalpunk, publication, free download]
 ---
