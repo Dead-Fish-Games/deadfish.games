@@ -25,9 +25,10 @@ Welcome to Crystalpunk, a dark fantasy noir setting for the world's greatest rol
 
 ## Release Information
 
-{: .box-warning}
-Crystalpunk: Anthology is currently in beta playtesting. Please [contact us](/about-us) for more information.
+{: .box-note}
+Crystalpunk: Anthology was released for download on 07-Mar-2022.
 
 ## Download
 
-*Under Construction*
+* [Full-Color PDF](/assets/pdf/Crystalpunk%20Anthology.pdf)
+* [B+W Print-Friendly PDF](/assets/pdf/Crystalpunk%20Anthology-printfriendly.pdf)
