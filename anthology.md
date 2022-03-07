@@ -2,7 +2,7 @@
 layout: page
 title: "Crystalpunk: Anthology"
 subtitle: Ten adventures set in the Crystalpunk world for the world's greatest roleplaying game
-cover-img: /assets/img/a/a-banner.webp
+cover-img: https://deadfish.games/assets/img/a/a-banner.webp
 ---
 
 ## Quick Info
