@@ -2,7 +2,7 @@
 layout: page
 title: Untitled Movement Game
 subtitle: A token movement game for 2 or 4 players
-cover-img: /assets/img/umg/umg-board-banner.webp
+cover-img: https://deadfish.games/assets/img/umg/umg-board-banner.webp
 ---
 
 ## Quick Info
