@@ -4,7 +4,7 @@ title: About Us
 subtitle: Just some tidbits of information about us
 ---
 
-Dead Fish Games was founded in 2020 by me (Ember Heartshine) and my partner, Lily Soul. It's really just a side hobby for now, but so far we've developed the following games:
+Dead Fish Games was founded in 2020 as an independent hobbyist project. So far, we've developed the following games:
 
 - [Forsaken Planet](/forsaken-planet)
 - [Untitled Movement Game](/umg)
@@ -35,4 +35,4 @@ We can be reached a few different ways:
 
 - **Email:** `contact@deadfish.games`
 - **Twitter:** [@dead_fish_games](https://twitter.com/dead_fish_games)
-- **Discord:** `Ember Heartshine#0001`
+- **LinkedIn:** [Dead Fish Games](https://www.linkedin.com/company/dead-fish-games/)
