@@ -13,12 +13,14 @@ cover-img: https://deadfish.games/assets/img/umg/umg-board-banner.webp
 
 ## Introduction
 
-*Under Construction*
+The rules are simple: roll the die, play some cards, and get your pieces from one side of the board to the other.
+
+Sounds simple enough, right?
 
 ## In the Box
 
 - 1 rule pamphlet
-- 1 three-sided die (d3)
+- 1 six-sided die, numbered 1 to 3
 - 4 game boards
   - 2 horizontally symmetrical boards
   - 1 rotationally symmetrical board
@@ -38,11 +40,13 @@ cover-img: https://deadfish.games/assets/img/umg/umg-board-banner.webp
   - 3 **backward-right** cards
   - 3 **backward-left** cards
 
+|[![Untitled Movement Game playtest box](/assets/img/umg/umg-box-sm.webp){: .mx-auto.d-block :}](/assets/img/umg/umg-box.webp)|[![Untitled Movement Game playtest contents](/assets/img/umg/umg-contents-sm.webp){: .mx-auto.d-block :}](/assets/img/umg/umg-contents.webp)|[![Untitled Movement Game with two players](/assets/img/umg/umg-2p-sm.webp){: .mx-auto.d-block :}](/assets/img/umg/umg-2p.webp)|[![Untitled Movement Game with four players](/assets/img/umg/umg-4p-sm.webp){: .mx-auto.d-block :}](/assets/img/umg/umg-4p.webp)|
+
 ## Release Information
 
-{: .box-warning}
-Untitled Movement Game is currently in alpha playtesting, and is presently only available as a Print-and-Play PDF.
+{: .box-note}
+Untitled Movement Game is currently in beta playtesting. Please [contact us](/about-us) if you would like to order a playtest set.
 
 ## Game Manual
 
-- [Print-and-Play PDF](/assets/pdf/Untitled%20Movement%20Game_PnP-alpha.pdf)
+- [Print-and-Play PDF](/assets/pdf/Untitled%20Movement%20Game_PnP-beta.pdf)
