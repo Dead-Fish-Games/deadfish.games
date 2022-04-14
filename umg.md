@@ -49,4 +49,4 @@ Untitled Movement Game is currently in beta playtesting. Please [contact us](/ab
 
 ## Game Manual
 
-- [Print-and-Play PDF](/assets/pdf/Untitled%20Movement%20Game_PnP-beta.pdf)
+- [Download from itch.io](https://dead-fish-games.itch.io/umg)
