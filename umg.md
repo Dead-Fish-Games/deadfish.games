@@ -13,7 +13,7 @@ cover-img: https://deadfish.games/assets/img/umg/umg-board-banner.webp
 
 ## Introduction
 
-The rules are simple: roll the die, play some cards, and get your pieces from one side of the board to the other.
+The rules are easy: roll the die, play some cards, and get your pieces from one side of the board to the other.
 
 Sounds simple enough, right?
 
